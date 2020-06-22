@@ -1,5 +1,6 @@
-title: Configuration file
-author: Miriam bonu'
+title: "Configuration file"
+date: 2020-06-22
+author: "Miriam bonu'"
 email: your-email@domain.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
