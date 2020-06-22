@@ -1,2 +1,3 @@
-Here's my first blog post
--- added a new comment here
+title: "My first blog post title"
+
+date: 2020-06-22
