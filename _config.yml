@@ -4,6 +4,7 @@ email: your-email@domain.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
  This in the description that will be shown on my site
+ added extra text here
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
